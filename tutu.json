@@ -590,6 +590,15 @@
       "ext": {
         "json": "./lib/c66a4b5356141c49fd45ec51568017b4.txt"
       }
+    },
+    {
+      "key": "瓜子影视",
+      "name": "💡瓜子｜影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
